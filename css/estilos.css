@@ -1,0 +1,32 @@
+/* Estilos de la barra de navegación */
+.navbar {
+    background-color: #1E3C2A;
+}
+
+/* Color del nombre de la barra de navegación */
+.navbar-brand {
+    color: white;
+    text-transform: uppercase;
+}
+
+/* Color de los enlaces de navegación */
+.navbar .nav-link,
+.navbar .nav-link.active {
+    color: white;
+}
+
+/* Subrayado de los enlaces al pasar el cursor */
+.navbar .nav-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* Mantener blanco el nombre del sitio al pasar el cursor */
+.navbar-brand:hover {
+    color: white;
+}
+
+/* Color del botón del menú responsivo */
+.navbar-toggler {
+    background-color: white;
+}
