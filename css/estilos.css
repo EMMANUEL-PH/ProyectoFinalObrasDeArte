@@ -1,3 +1,5 @@
+/*-------- BARRA DE NAVEGACIÓN --------*/
+
 /* Estilos de la barra de navegación */
 .navbar {
     background-color: #1E3C2A;
@@ -29,4 +31,12 @@
 /* Color del botón del menú responsivo */
 .navbar-toggler {
     background-color: white;
+}
+
+/*-------- SECCION DE COLECCION DE OBRAS DE ARTE --------*/
+
+/* Títulos de las tarjetas de la colección */
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
 }
