@@ -40,3 +40,12 @@
     font-size: 18px;
     font-weight: bold;
 }
+
+/*--------- Estilos del pie de página --------*/
+footer {
+    background-color: #1E3C2A;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 25px;
+}
